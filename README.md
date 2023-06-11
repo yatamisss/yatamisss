@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yatamis Spolman</h1>
-<h3 align="center">A passionate Full Stack developer from Chile</h3>
+<h1 align="center">Hola 👋, Me llamo Yatamis Spolman</h1>
+<h3 align="center">Soy una apasionada desarrolladora Full Stack Junior</h3>
 
 - 🌱 I’m currently learning **JavaScript, Sass, SCRUM, Java**
 
