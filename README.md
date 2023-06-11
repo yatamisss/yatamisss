@@ -43,9 +43,3 @@
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="bootstrap logo"  />
 </div>
-
-###
-
-<h3 align="center">🔥   My Stats</h3>
-
-###
